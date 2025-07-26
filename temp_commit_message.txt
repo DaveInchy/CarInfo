@@ -1,1 +1,1 @@
-Final attempt to fix Vercel routing with explicit static and function paths
+Update package.json scripts and workers.js paths for Vercel deployment

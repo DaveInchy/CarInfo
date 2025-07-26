@@ -31,9 +31,7 @@ const carData = {
 
 const buildData = () => {
   // Create directories
-  if (fs.existsSync(DIST_DIR)) {
-    fs.rmSync(DIST_DIR, { recursive: true, force: true });
-  }
+  
   fs.mkdirSync(API_DIR, { recursive: true });
 
   console.log('Generating brand files...');
