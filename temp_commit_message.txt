@@ -1,1 +1,1 @@
-Remove vercel.json and rely on Vercel defaults
+Final attempt to fix Vercel routing with explicit static and function paths

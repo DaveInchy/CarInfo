@@ -2,8 +2,8 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const Fuse = require('fuse.js');
 
-const carData = require('./dist/api/index.json');
-const allModels = require('./dist/api/all.json');
+const carData = require('../dist/api/index.json');
+const allModels = require('../dist/api/all.json');
 
 const fuse = new Fuse(allModels, {
   keys: ['brand', 'model'],
