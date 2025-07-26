@@ -6,6 +6,7 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
+  "homepage": "/",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
