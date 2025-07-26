@@ -13,6 +13,10 @@ app.get('/style.css', (req, res) => {
   res.sendFile(path.join(__dirname, 'style.css'));
 });
 
+app.get('/script.js', (req, res) => {
+  res.sendFile(path.join(__dirname, 'script.js'));
+});
+
 app.get('/:query', async (req, res) => {
   const query = req.params.query;
   const results = await findCar(query);

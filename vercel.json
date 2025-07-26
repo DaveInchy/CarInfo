@@ -1,0 +1,31 @@
+{
+  "builds": [
+    {
+      "src": "build-data.js",
+      "use": "@vercel/node",
+      "config": { "includeFiles": ["carData.js"] }
+    },
+    {
+      "src": "index.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/style.css",
+      "dest": "/style.css"
+    },
+    {
+      "src": "/dist/api/(.*)",
+      "dest": "/dist/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.js"
+    }
+  ]
+}
