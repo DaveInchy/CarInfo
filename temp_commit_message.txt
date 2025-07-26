@@ -1,1 +1,1 @@
-Configure Vercel for static assets and API routes
+Refactor Vercel deployment for static files and API routes

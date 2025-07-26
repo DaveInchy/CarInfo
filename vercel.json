@@ -1,8 +1,23 @@
 {
-  "rewrites": [
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    },
+    "outputDirectory": "public"
+  },
+  "functions": {
+    "index.js": {
+      "runtime": "nodejs20.x"
+    }
+  },
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "/index.js"
+      "src": "/api/(.*)",
+      "dest": "/public/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.js"
     }
   ]
 }
