@@ -1,1 +1,1 @@
-Add dynamic brand list to front page
+Configure Vercel for static assets and API routes

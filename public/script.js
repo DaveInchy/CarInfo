@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', async () => {
   const brandList = document.getElementById('brand-list');
   try {
-    const response = await fetch('/public/api/index.json');
+    const response = await fetch('/api/index.json');
     const brands = await response.json();
 
     brandList.innerHTML = ''; // Clear loading message

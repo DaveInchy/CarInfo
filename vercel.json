@@ -1,22 +1,6 @@
 {
   "rewrites": [
     {
-      "source": "/",
-      "destination": "/index.html"
-    },
-    {
-      "source": "/style.css",
-      "destination": "/style.css"
-    },
-    {
-      "source": "/script.js",
-      "destination": "/script.js"
-    },
-    {
-      "source": "/public/api/(.*)",
-      "destination": "/public/api/$1"
-    },
-    {
       "source": "/(.*)",
       "destination": "/index.js"
     }

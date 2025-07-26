@@ -1,21 +1,8 @@
 const express = require('express');
-const path = require('path');
 const { findCar, getLogo } = require('./workers');
 
 const app = express();
 const port = 80;
-
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
-});
-
-app.get('/style.css', (req, res) => {
-  res.sendFile(path.join(__dirname, 'style.css'));
-});
-
-app.get('/script.js', (req, res) => {
-  res.sendFile(path.join(__dirname, 'script.js'));
-});
 
 app.get('/:query', async (req, res) => {
   const query = req.params.query;
