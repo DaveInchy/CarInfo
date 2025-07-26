@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 2em;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+code {
+  background-color: #eee;
+  padding: 0.2em;
+  border-radius: 3px;
+}
+
+li {
+  margin-bottom: 0.5em;
+}

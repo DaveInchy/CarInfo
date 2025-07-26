@@ -1,0 +1,350 @@
+[
+  {
+    "brand": "alfa-romeo",
+    "model": "Giulia"
+  },
+  {
+    "brand": "alfa-romeo",
+    "model": "Stelvio"
+  },
+  {
+    "brand": "audi",
+    "model": "A4"
+  },
+  {
+    "brand": "audi",
+    "model": "A6"
+  },
+  {
+    "brand": "audi",
+    "model": "Q5"
+  },
+  {
+    "brand": "audi",
+    "model": "Q7"
+  },
+  {
+    "brand": "bmw",
+    "model": "3 Series"
+  },
+  {
+    "brand": "bmw",
+    "model": "5 Series"
+  },
+  {
+    "brand": "bmw",
+    "model": "X3"
+  },
+  {
+    "brand": "bmw",
+    "model": "X5"
+  },
+  {
+    "brand": "cadillac",
+    "model": "Escalade"
+  },
+  {
+    "brand": "cadillac",
+    "model": "CT5"
+  },
+  {
+    "brand": "cadillac",
+    "model": "XT5"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Silverado"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Camaro"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Equinox"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Malibu"
+  },
+  {
+    "brand": "chevrolet",
+    "model": "Tahoe"
+  },
+  {
+    "brand": "dodge",
+    "model": "Charger"
+  },
+  {
+    "brand": "dodge",
+    "model": "Challenger"
+  },
+  {
+    "brand": "dodge",
+    "model": "Durango"
+  },
+  {
+    "brand": "ferrari",
+    "model": "488"
+  },
+  {
+    "brand": "ferrari",
+    "model": "F8 Tributo"
+  },
+  {
+    "brand": "ferrari",
+    "model": "SF90 Stradale"
+  },
+  {
+    "brand": "ford",
+    "model": "F-150"
+  },
+  {
+    "brand": "ford",
+    "model": "Mustang"
+  },
+  {
+    "brand": "ford",
+    "model": "Explorer"
+  },
+  {
+    "brand": "ford",
+    "model": "Escape"
+  },
+  {
+    "brand": "ford",
+    "model": "Focus"
+  },
+  {
+    "brand": "honda",
+    "model": "Civic"
+  },
+  {
+    "brand": "honda",
+    "model": "Accord"
+  },
+  {
+    "brand": "honda",
+    "model": "CR-V"
+  },
+  {
+    "brand": "honda",
+    "model": "Pilot"
+  },
+  {
+    "brand": "honda",
+    "model": "Odyssey"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Elantra"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Sonata"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Tucson"
+  },
+  {
+    "brand": "hyundai",
+    "model": "Santa Fe"
+  },
+  {
+    "brand": "jeep",
+    "model": "Wrangler"
+  },
+  {
+    "brand": "jeep",
+    "model": "Grand Cherokee"
+  },
+  {
+    "brand": "jeep",
+    "model": "Cherokee"
+  },
+  {
+    "brand": "kia",
+    "model": "Optima"
+  },
+  {
+    "brand": "kia",
+    "model": "Sorento"
+  },
+  {
+    "brand": "kia",
+    "model": "Sportage"
+  },
+  {
+    "brand": "kia",
+    "model": "Telluride"
+  },
+  {
+    "brand": "lamborghini",
+    "model": "Huracán"
+  },
+  {
+    "brand": "lamborghini",
+    "model": "Aventador"
+  },
+  {
+    "brand": "lamborghini",
+    "model": "Urus"
+  },
+  {
+    "brand": "lexus",
+    "model": "RX"
+  },
+  {
+    "brand": "lexus",
+    "model": "ES"
+  },
+  {
+    "brand": "lexus",
+    "model": "NX"
+  },
+  {
+    "brand": "lexus",
+    "model": "IS"
+  },
+  {
+    "brand": "mazda",
+    "model": "Mazda3"
+  },
+  {
+    "brand": "mazda",
+    "model": "Mazda6"
+  },
+  {
+    "brand": "mazda",
+    "model": "CX-5"
+  },
+  {
+    "brand": "mazda",
+    "model": "MX-5 Miata"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": "C-Class"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": "E-Class"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": "GLC"
+  },
+  {
+    "brand": "mercedes-benz",
+    "model": "GLE"
+  },
+  {
+    "brand": "nissan",
+    "model": "Altima"
+  },
+  {
+    "brand": "nissan",
+    "model": "Sentra"
+  },
+  {
+    "brand": "nissan",
+    "model": "Rogue"
+  },
+  {
+    "brand": "nissan",
+    "model": "Titan"
+  },
+  {
+    "brand": "nissan",
+    "model": "GT-R"
+  },
+  {
+    "brand": "porsche",
+    "model": "911"
+  },
+  {
+    "brand": "porsche",
+    "model": "Cayenne"
+  },
+  {
+    "brand": "porsche",
+    "model": "Macan"
+  },
+  {
+    "brand": "porsche",
+    "model": "Panamera"
+  },
+  {
+    "brand": "subaru",
+    "model": "Outback"
+  },
+  {
+    "brand": "subaru",
+    "model": "Forester"
+  },
+  {
+    "brand": "subaru",
+    "model": "Crosstrek"
+  },
+  {
+    "brand": "subaru",
+    "model": "Impreza"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model 3"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model S"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model X"
+  },
+  {
+    "brand": "tesla",
+    "model": "Model Y"
+  },
+  {
+    "brand": "toyota",
+    "model": "Camry"
+  },
+  {
+    "brand": "toyota",
+    "model": "Corolla"
+  },
+  {
+    "brand": "toyota",
+    "model": "RAV4"
+  },
+  {
+    "brand": "toyota",
+    "model": "Highlander"
+  },
+  {
+    "brand": "toyota",
+    "model": "Tacoma"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Jetta"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Passat"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Tiguan"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Golf"
+  },
+  {
+    "brand": "volkswagen",
+    "model": "Atlas"
+  }
+]
