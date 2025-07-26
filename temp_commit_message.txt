@@ -1,1 +1,1 @@
-Fix Vercel routing for static files and API functions
+Refine Vercel routing for static files and API functions (attempt 3)
