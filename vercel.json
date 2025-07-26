@@ -1,31 +1,24 @@
 {
-  "builds": [
+  "rewrites": [
     {
-      "src": "build-data.js",
-      "use": "@vercel/node",
-      "config": { "includeFiles": ["carData.js"] }
+      "source": "/",
+      "destination": "/index.html"
     },
     {
-      "src": "index.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/",
-      "dest": "/index.html"
+      "source": "/style.css",
+      "destination": "/style.css"
     },
     {
-      "src": "/style.css",
-      "dest": "/style.css"
+      "source": "/script.js",
+      "destination": "/script.js"
     },
     {
-      "src": "/dist/api/(.*)",
-      "dest": "/dist/api/$1"
+      "source": "/public/api/(.*)",
+      "destination": "/public/api/$1"
     },
     {
-      "src": "/(.*)",
-      "dest": "/index.js"
+      "source": "/(.*)",
+      "destination": "/index.js"
     }
   ]
 }

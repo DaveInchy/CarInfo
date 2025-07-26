@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DIST_DIR = 'dist';
+const DIST_DIR = 'public';
 const API_DIR = path.join(DIST_DIR, 'api');
 
 const carData = {
