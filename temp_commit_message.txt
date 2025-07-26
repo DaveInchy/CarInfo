@@ -1,1 +1,1 @@
-Final Vercel routing for static files and API functions
+Remove vercel.json and rely on Vercel defaults
